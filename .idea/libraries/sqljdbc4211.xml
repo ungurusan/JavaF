@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqljdbc4211">
+    <CLASSES>
+      <root url="jar://D:/FastCollect/sqljdbc42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
